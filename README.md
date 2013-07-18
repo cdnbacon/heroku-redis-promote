@@ -15,7 +15,7 @@ Updates the `REDIS_URL` environment variable to point to a specific REDIS provid
      REDISTOGO_URL
 
     $ heroku redis:promote REDISTOGO_URL
-    Promoting REDISCLOUD_URL...
+    Promoting REDISTOGO_URL...
     Promoted! Heroku will restart the app.
 
 ## License
